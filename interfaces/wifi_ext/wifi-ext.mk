@@ -26,3 +26,5 @@ PRODUCT_PACKAGES += \
 # GCS App
 PRODUCT_PACKAGES += \
     GCS
+
+-include device/havoc/sepolicy/wifi-ext/sepolicy.mk
